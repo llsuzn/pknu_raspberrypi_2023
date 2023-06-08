@@ -11,6 +11,10 @@
 		- 한글 폰트 및 입력기
 		- 스크린세이버, 와이파이 연결 끊김 해제
 	- pi-apps 설치
-	- Visual Studio Code 설치
-	- Github Desktop 설치 및 설정
+		- Visual Studio Code 설치
+		- Github Desktop 설치 및 설정
+	- Visual Studio Code
+		- Python 플러그인
+	- 리눅스 기본
+		- 리눅스 명령어(대표 20여가지)	
 	
